@@ -1,0 +1,1045 @@
+fileFormatVersion: 2
+guid: 903a2389bc55c454fb7c3f4f3b4241ce
+timeCreated: 1509863424
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: asteroid_strip64_0
+    21300002: asteroid_strip64_1
+    21300004: asteroid_strip64_2
+    21300006: asteroid_strip64_3
+    21300008: asteroid_strip64_4
+    21300010: asteroid_strip64_5
+    21300012: asteroid_strip64_6
+    21300014: asteroid_strip64_7
+    21300016: asteroid_strip64_8
+    21300018: asteroid_strip64_9
+    21300020: asteroid_strip64_10
+    21300022: asteroid_strip64_11
+    21300024: asteroid_strip64_12
+    21300026: asteroid_strip64_13
+    21300028: asteroid_strip64_14
+    21300030: asteroid_strip64_15
+    21300032: asteroid_strip64_16
+    21300034: asteroid_strip64_17
+    21300036: asteroid_strip64_18
+    21300038: asteroid_strip64_19
+    21300040: asteroid_strip64_20
+    21300042: asteroid_strip64_21
+    21300044: asteroid_strip64_22
+    21300046: asteroid_strip64_23
+    21300048: asteroid_strip64_24
+    21300050: asteroid_strip64_25
+    21300052: asteroid_strip64_26
+    21300054: asteroid_strip64_27
+    21300056: asteroid_strip64_28
+    21300058: asteroid_strip64_29
+    21300060: asteroid_strip64_30
+    21300062: asteroid_strip64_31
+    21300064: asteroid_strip64_32
+    21300066: asteroid_strip64_33
+    21300068: asteroid_strip64_34
+    21300070: asteroid_strip64_35
+    21300072: asteroid_strip64_36
+    21300074: asteroid_strip64_37
+    21300076: asteroid_strip64_38
+    21300078: asteroid_strip64_39
+    21300080: asteroid_strip64_40
+    21300082: asteroid_strip64_41
+    21300084: asteroid_strip64_42
+    21300086: asteroid_strip64_43
+    21300088: asteroid_strip64_44
+    21300090: asteroid_strip64_45
+    21300092: asteroid_strip64_46
+    21300094: asteroid_strip64_47
+    21300096: asteroid_strip64_48
+    21300098: asteroid_strip64_49
+    21300100: asteroid_strip64_50
+    21300102: asteroid_strip64_51
+    21300104: asteroid_strip64_52
+    21300106: asteroid_strip64_53
+    21300108: asteroid_strip64_54
+    21300110: asteroid_strip64_55
+    21300112: asteroid_strip64_56
+    21300114: asteroid_strip64_57
+    21300116: asteroid_strip64_58
+    21300118: asteroid_strip64_59
+    21300120: asteroid_strip64_60
+    21300122: asteroid_strip64_61
+    21300124: asteroid_strip64_62
+    21300126: asteroid_strip64_63
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: asteroid_strip64_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 8
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 96
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4
+        width: 96
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 12
+        width: 116
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_5
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 12
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 12
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_7
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 8
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_8
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 8
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_9
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 8
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_10
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 4
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_11
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 8
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_12
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 8
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_13
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 4
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_14
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 8
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_15
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 12
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_16
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 16
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 16
+        width: 120
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 16
+        width: 116
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_19
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 12
+        width: 116
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_20
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 12
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_21
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 12
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_22
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 8
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_23
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 12
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_24
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 16
+        width: 116
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_25
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 12
+        width: 116
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_26
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 4
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_27
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 8
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_28
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 12
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_29
+      rect:
+        serializedVersion: 2
+        x: 3716
+        y: 12
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_30
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 12
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_31
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 20
+        width: 112
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_32
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 16
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_33
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 12
+        width: 96
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_34
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 12
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_35
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 12
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_36
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 16
+        width: 112
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_37
+      rect:
+        serializedVersion: 2
+        x: 4748
+        y: 20
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_38
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 20
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_39
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 12
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_40
+      rect:
+        serializedVersion: 2
+        x: 5136
+        y: 4
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_41
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 8
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_42
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 12
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_43
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 8
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_44
+      rect:
+        serializedVersion: 2
+        x: 5644
+        y: 12
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_45
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 12
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_46
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 8
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_47
+      rect:
+        serializedVersion: 2
+        x: 6036
+        y: 8
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_48
+      rect:
+        serializedVersion: 2
+        x: 6156
+        y: 8
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_49
+      rect:
+        serializedVersion: 2
+        x: 6284
+        y: 16
+        width: 116
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_50
+      rect:
+        serializedVersion: 2
+        x: 6412
+        y: 16
+        width: 116
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_51
+      rect:
+        serializedVersion: 2
+        x: 6536
+        y: 12
+        width: 116
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_52
+      rect:
+        serializedVersion: 2
+        x: 6672
+        y: 4
+        width: 104
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_53
+      rect:
+        serializedVersion: 2
+        x: 6804
+        y: 4
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_54
+      rect:
+        serializedVersion: 2
+        x: 6932
+        y: 8
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_55
+      rect:
+        serializedVersion: 2
+        x: 7052
+        y: 12
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_56
+      rect:
+        serializedVersion: 2
+        x: 7176
+        y: 12
+        width: 112
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_57
+      rect:
+        serializedVersion: 2
+        x: 7304
+        y: 12
+        width: 116
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_58
+      rect:
+        serializedVersion: 2
+        x: 7436
+        y: 12
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_59
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 4
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_60
+      rect:
+        serializedVersion: 2
+        x: 7692
+        y: 8
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_61
+      rect:
+        serializedVersion: 2
+        x: 7820
+        y: 4
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_62
+      rect:
+        serializedVersion: 2
+        x: 7944
+        y: 4
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_strip64_63
+      rect:
+        serializedVersion: 2
+        x: 8072
+        y: 4
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
